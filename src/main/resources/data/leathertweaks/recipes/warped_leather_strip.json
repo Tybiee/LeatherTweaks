@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "leathertweaks:warped_leather"
+  },
+  "result": "leathertweaks:warped_leather_strip",
+  "count": 3
+}

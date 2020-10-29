@@ -1,0 +1,6 @@
+{
+  "parent": "leathertweaks:block/crimson_leather_block",
+  "textures": {
+    "layer0": "leathertweaks:item/crimson_leather_block"
+  }
+}
