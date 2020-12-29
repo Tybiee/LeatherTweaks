@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "leathertweaks:warped_leather_block"
+  },
+  "result": "leathertweaks:warped_leather_sheet",
+  "count": 3
+}

@@ -13,6 +13,8 @@ public class Items {
     public static final Item WARPED_LEATHER = new Item(new Item.Settings().group(ItemGroup.MISC));
     public static final Item CRIMSON_LEATHER_STRIP = new Item(new Item.Settings().group(ItemGroup.MISC));
     public static final Item WARPED_LEATHER_STRIP = new Item(new Item.Settings().group(ItemGroup.MISC));
+    public static final Item CRIMSON_LEATHER_SHEET = new Item(new Item.Settings().group(ItemGroup.MISC));
+    public static final Item WARPED_LEATHER_SHEET = new Item(new Item.Settings().group(ItemGroup.MISC));
 
     // Infected Leather Armor
     public static final ArmorMaterial customArmorMaterial = new CrimsonLeather();
@@ -23,6 +25,7 @@ public class Items {
 
     // Misc Items
     public static final Item LEATHER_STRIP = new Item(new Item.Settings().group(ItemGroup.MISC));
+    public static final Item LEATHER_SHEET = new Item(new Item.Settings().group(ItemGroup.MISC));
     public static final MushroomStewItem CRIMSON_STEW = new MushroomStewItem(new Item.Settings().group(ItemGroup.FOOD).food(new FoodComponent.Builder().hunger(6).saturationModifier(7.2F).build()));
     public static final MushroomStewItem WARPED_STEW = new MushroomStewItem(new Item.Settings().group(ItemGroup.FOOD).food(new FoodComponent.Builder().hunger(6).saturationModifier(7.2F).build()));
 
@@ -35,6 +38,10 @@ public class Items {
         Registry.register(Registry.ITEM, new Identifier("leathertweaks", "leather_strip"), (LEATHER_STRIP));
         Registry.register(Registry.ITEM, new Identifier("leathertweaks", "crimson_leather_strip"), (CRIMSON_LEATHER_STRIP));
         Registry.register(Registry.ITEM, new Identifier("leathertweaks", "warped_leather_strip"), (WARPED_LEATHER_STRIP));
+
+        Registry.register(Registry.ITEM, new Identifier("leathertweaks", "leather_sheet"), (LEATHER_SHEET));
+        Registry.register(Registry.ITEM, new Identifier("leathertweaks", "crimson_leather_sheet"), (CRIMSON_LEATHER_SHEET));
+        Registry.register(Registry.ITEM, new Identifier("leathertweaks", "warped_leather_sheet"), (WARPED_LEATHER_SHEET));
 
         Registry.register(Registry.ITEM, new Identifier("leathertweaks", "crimson_stew"), (CRIMSON_STEW));
         Registry.register(Registry.ITEM, new Identifier("leathertweaks", "warped_stew"), (WARPED_STEW));

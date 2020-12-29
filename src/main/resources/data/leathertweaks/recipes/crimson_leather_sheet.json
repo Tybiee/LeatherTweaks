@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "leathertweaks:crimson_leather_block"
+  },
+  "result": "leathertweaks:crimson_leather_sheet",
+  "count": 3
+}
