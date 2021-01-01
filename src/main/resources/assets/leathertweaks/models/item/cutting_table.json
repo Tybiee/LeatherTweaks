@@ -1,0 +1,6 @@
+{
+  "parent": "leathertweaks:block/cutting_table",
+  "textures": {
+    "layer0": "leathertweaks:item/cutting_table"
+  }
+}
