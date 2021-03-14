@@ -19,6 +19,11 @@
   "item.leathertweaks.crimson_chestplate": "Crimson Infected Leather Chestplate",
   "item.leathertweaks.crimson_leggings": "Crimson Infected Leather Trousers",
   "item.leathertweaks.crimson_boots": "Crimson Infected Leather Boots",
+  "item.leathertweaks.warped_helmet": "Warped Infected Leather Helmet",
+  "item.leathertweaks.warped_chestplate": "Warped Infected Leather Chestplate",
+  "item.leathertweaks.warped_leggings": "Warped Infected Leather Trousers",
+  "item.leathertweaks.warped_boots": "Warped Infected Leather Boots",
   "item.leathertweaks.cutting_table": "Cutting Table",
-  "block.leathertweaks.cutting_table": "Cutting Table"
+  "block.leathertweaks.cutting_table": "Cutting Table",
+  "container.cutting_table": "Cutting Table"
 }

@@ -1,10 +1,10 @@
-{
+ {
   "schemaVersion": 1,
   "id": "leathertweaks",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Leather Tweaks",
+  "description": "This is a mod that tybie is pog!",
   "authors": [
     "Me!"
   ],
@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.tybie.leathertweaks"
+    ],
+    "client": [
+      "net.tybie.init.ClientInit"
     ]
   },
   "mixins": [
