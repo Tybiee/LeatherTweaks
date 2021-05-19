@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "= ="
+  ],
+  "key": {
+    "#": {
+      "item": "leathertweaks:crimson_leather"
+    },
+    "=": {
+      "item": "leathertweaks:crimson_leather_sheet"
+    }
+  },
+  "result": {
+    "item": "leathertweaks:crimson_boots"
+  }
+}

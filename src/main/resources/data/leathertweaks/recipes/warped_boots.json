@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "= ="
+  ],
+  "key": {
+    "#": {
+      "item": "leathertweaks:warped_leather"
+    },
+    "=": {
+      "item": "leathertweaks:warped_leather_sheet"
+    }
+  },
+  "result": {
+    "item": "leathertweaks:warped_boots"
+  }
+}
